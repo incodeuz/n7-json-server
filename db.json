@@ -1,0 +1,21 @@
+{
+  "n7guruhi": [
+    {
+      "name": "Sunnatbek",
+      "age": "15"
+    },
+    {
+      "name": "Orifjon aka",
+      "age": "37"
+    },
+    {
+      "name": "Davron aka",
+      "age": "28"
+    },
+    {
+      "name": "Abdunazar",
+      "age": "18"
+    }
+  ],
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }]
+}
