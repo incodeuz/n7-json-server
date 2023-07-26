@@ -1,18 +1,22 @@
 {
   "n7guruhi": [
     {
+      "id": 1,
       "name": "Sunnatbek",
       "age": "15"
     },
     {
+      "id": 2,
       "name": "Orifjon aka",
       "age": "37"
     },
     {
+      "id": 3,
       "name": "Davron aka",
       "age": "28"
     },
     {
+      "id": 4,
       "name": "Abdunazar",
       "age": "18"
     }
